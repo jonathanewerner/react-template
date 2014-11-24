@@ -2,7 +2,7 @@
 
 Adapts [gaearon/react-tutorial-hot](https://github.com/gaearon/react-tutorial-hot).
 
-## features:
+## features
 - react hot reload
 - ES6 transpiling
 
