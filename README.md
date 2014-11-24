@@ -3,7 +3,7 @@
 Adapts [gaearon/react-tutorial-hot](https://github.com/gaearon/react-tutorial-hot).
 
 ## features:
-- live hot reload of React code
+- react hot reload
 - ES6 transpiling
 
 ## usage
